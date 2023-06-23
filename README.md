@@ -12,7 +12,7 @@ https://discord.gg/nVfDBy97aK
 * `Ru-ru` - Около `4000/24000` строк ручного русского перевода, остальное механический ру-перевод
 * `En-ru` - Около `4000/24000` строк ручного русского/англ перевода, остальное через механический англ-перевод. У механического англ качество получше, чем у ру.
 * `En-en` - Около `3000/24000` lines of manual English translation, the rest through mechanical English translation.
-* `En-pt` - Около `3500/24000` lines of manual Portuguese translation, the rest is mechanical English translation
+* `En-pt` - Около `4700/24000` lines of manual Portuguese translation, the rest is mechanical English translation
 
 Часть строк всегда будет на японском (итемы, квесты), потому что они тянутся с сервера игры, а не с клиента, и у нас нет инструмента, чтобы менять перевод на лету.
 
