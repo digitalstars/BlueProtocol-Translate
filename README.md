@@ -1,40 +1,35 @@
 # BlueProtocol-Translate
+Client-side patch to translate the game interface into different languages.
 You can participate in the translation of the game into other languages, English, German, French, Spanish and others. Visit our discord: https://discord.gg/nVfDBy97aK
 
-Русский патч для Blue Protocol (релиз JP). На данный момент перевод автоматический от google, вы можете помочь нам с переводом в нашем дискорде:
-https://discord.gg/nVfDBy97aK
+## Server-side patch
+To translate the server part of the game (quest, items, mobs, boards, etc...) use this patch in conjunction with ours. In the future this patch will be included in our archives
+https://github.com/ArtFect/BP-translate
 
-## ВНИМАНИЕ
-Это сторонний фан-проект, не имеющий никакого отношения к создателям игры.
-`dinput8.dll` был создан разработчиком `SkyProc`, который решил закрыть свой проект перевода.
+## Disclaimer.
+This is a third-party fan project that has nothing to do with the creators of the game.
+This patch requires modification of the game client.
+Using this patch can lead to a ban of the account, but at the moment there are no such cases, bans only for IP
 
-## Прогресс
-* `Ru-ru` - Около `4000/24000` строк ручного русского перевода, остальное механический ру-перевод
-* `En-ru` - Около `4000/24000` строк ручного русского/англ перевода, остальное через механический англ-перевод. У механического англ качество получше, чем у ру.
-* `En-en` - Около `3000/24000` lines of manual English translation, the rest through mechanical English translation.
-* `En-pt` - Около `4900/24000` lines of manual Portuguese translation, the rest is mechanical English translation
+## Progress
+* `Ru-ru` - Около `13%` ручного русского перевода, и `87%` русского механического DeepL перевода
+* `En-ru` - Около `13%` ручного русского перевода, и `87%` английского механического DeepL перевода
+* `En-en` - About `10%` lines of manual English translation, and `90%` English mechanical DeepL translation
+* `En-pt` - About `15%` lines of manual Portuguese translation, and `85%` English mechanical DeepL translation
 
-Часть строк всегда будет на японском (итемы, квесты), потому что они тянутся с сервера игры, а не с клиента, и у нас нет инструмента, чтобы менять перевод на лету.
+## Installation client-side translate
+1. Download the latest release [Releases page]([https://github.com/digitalstars/BlueProtocol-Translate/releases]) and unpack the archive with the desired localization
+2. Copy `dinput8.dll` to `C:\BandaiNamcoLauncherGames\BLUEPROTOCOL\BLUEPROTOCOL\Binaries\Win64\`.
+3. Copy the `~mods` folder to `C:\BandaiNamcoLauncherGames\BLUEPRTOCOL\BLUEPROTOCOL\Content\Paks`.
 
-## Установка
-1. Скачайте последний релиз [Releases page]([https://github.com/KAJSHU/BP-ENGLISH-PATCH/releases]) и распакуйте архив с нужной локализацией
-2. Скопируйте `dinput8.dll` в `C:\BandaiNamcoLauncherGames\BLUEPROTOCOL\BLUEPROTOCOL\Binaries\Win64\`
-3. Скопируйте папку `~mods` в `C:\BandaiNamcoLauncherGames\BLUEPRTOCOL\BLUEPROTOCOL\Content\Paks\`
+* These instructions assume that you have installed the game in the standard path `C:\BandaiNamcoLauncherGames\BLUEPROTOCOL`. If you installed the game in your own path, adjust the folder paths above as necessary.
 
-* Эти инструкции предполагают, что вы установили игру по стандартному пути "C:\BandaiNamcoLauncherGames\BLUEPROTOCOL". Если вы установили игру по собственному пути, скорректируйте пути папок, указанные выше, по мере необходимости..
+## Usage.
+1. Launch the game as usual with the BNO launcher.
+2. A window saying "SkyProc Launcher - Done!" will appear, press OK. (It may not appear the first time.)
+3. the game will start with the translation patch
 
-## Использование
-1. Запустите игру, как обычно, через BNO launcher.
-2. Появится окно с надписью "SkyProc Launcher - Done!", нажмите OK. (Может появиться не с первого раза)
-3. Игра будет запущена с русским патчем.
-
-## Удаление
-Патч можно удалить в любой момент, удалив файлы, скопированные в разделе `Установка`:
-1. Удалите `dinput8.dll` из `C:\BandaiNamcoLauncherGames\BLUEPROTOCOL\BLUEPROTOCOL\Binaries\Win64\dinput8.dll`
-2. Удалите папку `~mods` из `C:\BandaiNamcoLauncherGames\BLUEPROTOCOL\BLUEPROTOCOL\Content\Paks\`
-
-## Отказ от ответственности
-Этот патч требует модификации клиента игры.
-Использование этого патча может привести к бану учетной записи.
-
-**Вы были предупреждены.** 
+## Uninstall
+The patch can be removed at any time by deleting the files copied in the `Installation` section:
+1. Delete `dinput8.dll` from `C:\BandaiNamcoLauncherGames\BLUEPROTOCOL\BLUEPROTOCOL\Binaries\Win64\dinput8.dll`.
+2. Delete the `~mods` folder from `C:\BandaiNamcoLauncherGames\BLUEPROTOCOL\BLUEPROTOCOL\Content\Paks\`.
