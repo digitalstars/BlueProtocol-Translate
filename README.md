@@ -9,7 +9,7 @@ https://github.com/ArtFect/BP-translate
 ## Disclaimer.
 This is a third-party fan project that has nothing to do with the creators of the game.
 This patch requires modification of the game client.
-Using this patch can lead to a ban of the account, but at the moment there are no such cases, bans only for IP
+Using this patch can lead to a ban of the account, but at the moment there are no such cases, bans only for IP 
 
 ## Progress
 * `Ru-ru` - Около `13%` ручного русского перевода, и `87%` русского механического DeepL перевода
