@@ -20,7 +20,7 @@ Using this patch can lead to a ban of the account, but at the moment there are n
 ## Installation client-side translate
 1. Go to latest release [Releases page]([https://github.com/digitalstars/BlueProtocol-Translate/releases]) and download the required .rar archive with the translation from Assets and unpack.
 2. Copy `dinput8.dll` to `C:\BandaiNamcoLauncherGames\BLUEPROTOCOL\BLUEPROTOCOL\Binaries\Win64\`.
-3. Copy the `~mods` folder to `C:\BandaiNamcoLauncherGames\BLUEPRTOCOL\BLUEPROTOCOL\Content\Paks`.
+3. Copy the `~mods` folder to `C:\BandaiNamcoLauncherGames\BLUEPROTOCOL\BLUEPROTOCOL\Content\Paks`.
 
 * These instructions assume that you have installed the game in the standard path `C:\BandaiNamcoLauncherGames\BLUEPROTOCOL`. If you installed the game in your own path, adjust the folder paths above as necessary.
 
