@@ -18,7 +18,7 @@ Using this patch can lead to a ban of the account, but at the moment there are n
 * `En-pt` - About `15%` lines of manual Portuguese translation, and `85%` English mechanical DeepL translation
 
 ## Installation client-side translate
-1. Download the latest release [Releases page]([https://github.com/digitalstars/BlueProtocol-Translate/releases]) and unpack the archive with the desired localization
+1. Go to latest release [Releases page]([https://github.com/digitalstars/BlueProtocol-Translate/releases]) and download the required .rar archive with the translation from Assets and unpack.
 2. Copy `dinput8.dll` to `C:\BandaiNamcoLauncherGames\BLUEPROTOCOL\BLUEPROTOCOL\Binaries\Win64\`.
 3. Copy the `~mods` folder to `C:\BandaiNamcoLauncherGames\BLUEPRTOCOL\BLUEPROTOCOL\Content\Paks`.
 
