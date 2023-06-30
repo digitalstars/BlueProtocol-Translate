@@ -43,6 +43,6 @@ The patch can be removed at any time by deleting the files copied in the `Instal
 ## Thanks
 - `ArtFect` - https://github.com/ArtFect/BP-translate - server-side patch and  fix .dll file
 
-- `Zakum` worked on this to create the initial glossary of terms used for the translations. ([bapharia.com](bapharia.com))
+- `Zakum` worked on this to create the initial glossary of terms used for the translations. ([bapharia.com](https://bapharia.com/))
 
 - `SkyProc` - The first iteration of the dll patch. No longer supports
