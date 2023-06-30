@@ -2,10 +2,6 @@
 Client-side patch to translate the game interface into different languages.
 You can participate in the translation of the game into other languages, English, German, French, Spanish and others. Visit our discord: https://discord.gg/nVfDBy97aK
 
-## Server-side patch
-To translate the server part of the game (quest, items, mobs, boards, etc...) use this patch in conjunction with ours. In the future this patch will be included in our archives
-https://github.com/ArtFect/BP-translate
-
 ## Disclaimer.
 This is a third-party fan project that has nothing to do with the creators of the game.
 This patch requires modification of the game client.
@@ -43,3 +39,10 @@ Using this patch can lead to a ban of the account, but at the moment there are n
 The patch can be removed at any time by deleting the files copied in the `Installation` section:
 1. Delete `dinput8.dll` from `C:\BandaiNamcoLauncherGames\BLUEPROTOCOL\BLUEPROTOCOL\Binaries\Win64\dinput8.dll`.
 2. Delete the `~mods` folder from `C:\BandaiNamcoLauncherGames\BLUEPROTOCOL\BLUEPROTOCOL\Content\Paks\`.
+
+## Thanks
+- `ArtFect` - https://github.com/ArtFect/BP-translate - server-side patch and  fix .dll file
+
+- `Zakum` worked on this to create the initial glossary of terms used for the translations. ([bapharia.com](bapharia.com))
+
+- `SkyProc` - The first iteration of the dll patch. No longer supports
