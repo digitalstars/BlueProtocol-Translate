@@ -11,11 +11,14 @@ This is a third-party fan project that has nothing to do with the creators of th
 This patch requires modification of the game client.
 Using this patch can lead to a ban of the account, but at the moment there are no such cases, bans only for IP 
 
-## Progress
+## Progress client
 * `Ru-ru` - Около `13%` ручного русского перевода, и `87%` русского механического DeepL перевода
 * `En-ru` - Около `13%` ручного русского перевода, и `87%` английского механического DeepL перевода
 * `En-en` - About `10%` lines of manual English translation, and `90%` English mechanical DeepL translation
-* `En-pt` - About `15%` lines of manual Portuguese translation, and `85%` English mechanical DeepL translation
+* `En-pt` - About `100%` lines of manual Portuguese translation
+
+## Progress server
+soon
 
 ## Installation client-side translate
 1. Go to latest release [Releases page]([https://github.com/digitalstars/BlueProtocol-Translate/releases]) and download the required .rar archive with the translation from Assets and unpack.
