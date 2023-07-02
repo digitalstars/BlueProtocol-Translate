@@ -8,17 +8,17 @@ This patch requires modification of the game client.
 Using this patch can lead to a ban of the account, but at the moment there are no such cases, bans only for IP 
 
 ## Progress client
-* `Ru-ru` - Около `26%` ручного русского перевода, и `74%` GPT+deepl русского механического перевода
-* `En-en` - About `20%` lines of manual English translation, and `80%` English mechanical DeepL translation
+* `Ru-ru` - Около `9%` ручного русского перевода, и `91%` GPT+deepl русского механического перевода
+* `En-en` - About `1%` lines of manual English translation, and `99%` English mechanical DeepL translation
 * `En-pt` - About `100%` lines of manual Portuguese translation
 
 ## Progress server
 * `Ru-ru` - Около `7%` ручного русского перевода, и `93%` GPT+deepl+google русского механического перевода
-* `En-en` - About `14%` lines of manual English translation, and `86%` English mechanical Google translation
-* `En-pt` - About `7%` lines of manual Portuguese translation, `14%` lines of manual English translation, `79%` English mechanical Google translation
+* `En-en` - About `53%` lines of manual English translation, and `47%` English mechanical Google translation
+* `En-pt` - About `60%` lines of manual Portuguese translation, `40%` lines of manual/mechanical English translation
 
 ## Installation and usage
-1. Go to latest release [Releases page]([https://github.com/digitalstars/BlueProtocol-Translate/releases]) and download the required .rar archive with the translation from Assets and unpack.
+1. Go to latest [Releases page](https://github.com/digitalstars/BlueProtocol-Translate/releases) and download the required .rar archive with the translation from Assets and unpack.
 2. Copy `dinput8.dll` to `C:\BandaiNamcoLauncherGames\BLUEPROTOCOL\BLUEPROTOCOL\Binaries\Win64\`.
 3. Copy the `~mods` folder to `C:\BandaiNamcoLauncherGames\BLUEPROTOCOL\BLUEPROTOCOL\Content\Paks`.
 4. Move the `BP-translate 1.1` folder to any location convenient for you
