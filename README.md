@@ -8,14 +8,14 @@ This patch requires modification of the game client.
 Using this patch can lead to a ban of the account, but at the moment there are no such cases, bans only for IP 
 
 ## Progress client
-* `Ru-ru` - Около `9%` ручного русского перевода, и `91%` GPT+deepl русского механического перевода
-* `En-en` - About `1%` lines of manual English translation, and `99%` English mechanical DeepL translation
-* `En-pt` - About `100%` lines of manual Portuguese translation
+* `Ru-ru` - `9%` ручного русского перевода, и `91%` GPT+deepl русского механического перевода
+* `En-en` - `1%` lines of manual English translation, and `99%` English mechanical DeepL translation
+* `Pt-pt` - `100%` lines of manual Portuguese translation
 
 ## Progress server
-* `Ru-ru` - Около `7%` ручного русского перевода, и `93%` GPT+deepl+google русского механического перевода
-* `En-en` - About `53%` lines of manual English translation, and `47%` English mechanical Google translation
-* `En-pt` - About `60%` lines of manual Portuguese translation, `40%` lines of manual/mechanical English translation
+* `Ru-ru` - `7%` ручного русского перевода, и `93%` GPT+deepl+google русского механического перевода
+* `En-en` - `53%` lines of manual English translation, and `47%` English mechanical Google translation
+* `Pt-pt` - `100%` lines of manual Portuguese translation
 
 ## Installation and usage
 1. Go to latest [Releases page](https://github.com/digitalstars/BlueProtocol-Translate/releases) and download the required .rar archive with the translation from Assets and unpack.
