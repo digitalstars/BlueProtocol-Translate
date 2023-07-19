@@ -11,13 +11,13 @@ Using this patch can lead to a ban of the account, but at the moment there are n
 * `Ru-ru` - `9%` ручного русского перевода, и `91%` GPT+deepl русского механического перевода
 * `En-en` - `1%` lines of manual English translation, and `99%` English mechanical DeepL translation
 * `Pt-pt` - `100%` lines of manual Portuguese translation
-* `En-es` - `18%` lines of manual Spanish translation, and `82%` English manual/mechanical DeepL translation
+* `Es-es` - `100%` lines of manual/mechanical Spanish translation
 
 ## Progress server
 * `Ru-ru` - `7%` ручного русского перевода, и `93%` GPT+deepl+google русского механического перевода
 * `En-en` - `83%` lines of manual English translation, and `17%` English mechanical Google translation
 * `Pt-pt` - `100%` lines of manual Portuguese translation
-* `En-es` - `4%` lines of manual Spanish translation, and `96%` English manual/mechanical DeepL translation
+* `Es-es` - `57%` lines of manual/mechanical Spanish translation
 
 ## Installation and usage
 1. Go to latest [Releases page](https://github.com/digitalstars/BlueProtocol-Translate/releases) and download the required .rar archive with the translation from Assets and unpack.
@@ -25,9 +25,8 @@ Using this patch can lead to a ban of the account, but at the moment there are n
 3. Copy the `~mods` folder to `C:\BandaiNamcoLauncherGames\BLUEPROTOCOL\BLUEPROTOCOL\Content\Paks`.
 4. Move the `BP-translate 1.1` folder to any location convenient for you
 5. Run `BP-translate.exe` (It is necessary to restart every time you enter the game. The window will automatically close when the game starts)
-6. Launch the game as usual with the BNO launcher.
-7. A window saying "SkyProc Launcher - Done!" will appear, press OK. (It may not appear the first time.)
-8. the game will start with the translation patch
+6. Launch the game as usual with the BNO launcher. (It may not appear the first time.)
+7. the game will start with the translation patch
 
 * These instructions assume that you have installed the game in the standard path `C:\BandaiNamcoLauncherGames\BLUEPROTOCOL`. If you installed the game in your own path, adjust the folder paths above as necessary.
 
