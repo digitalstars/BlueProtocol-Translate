@@ -25,7 +25,7 @@ Using this patch can lead to a ban of the account, but at the moment there are n
 1. Go to latest [Releases page](https://github.com/digitalstars/BlueProtocol-Translate/releases) and download the required .zip archive with the translation from Assets and unpack.
 2. Copy `dinput8.dll` to `C:\BandaiNamcoLauncherGames\BLUEPROTOCOL\BLUEPROTOCOL\Binaries\Win64\`.
 3. Copy the `~mods` folder to `C:\BandaiNamcoLauncherGames\BLUEPROTOCOL\BLUEPROTOCOL\Content\Paks`.
-4. Move the `BP-translate 1.1` folder to any location convenient for you
+4. Move the `server-patch` folder to any location convenient for you
 5. Run `BP-translate.exe` (It is necessary to restart every time you enter the game. The window will automatically close when the game starts)
 6. Launch the game as usual with the BNO launcher. (It may not appear the first time.)
 7. the game will start with the translation patch
