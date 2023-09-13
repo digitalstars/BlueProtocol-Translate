@@ -22,7 +22,7 @@ Using this patch can lead to a ban of the account, but at the moment there are n
 * `Es-es` - `57%` lines of manual/mechanical Spanish translation
 
 ## Installation and usage
-1. Go to latest [Releases page](https://github.com/digitalstars/BlueProtocol-Translate/releases) and download the required .rar archive with the translation from Assets and unpack.
+1. Go to latest [Releases page](https://github.com/digitalstars/BlueProtocol-Translate/releases) and download the required .zip archive with the translation from Assets and unpack.
 2. Copy `dinput8.dll` to `C:\BandaiNamcoLauncherGames\BLUEPROTOCOL\BLUEPROTOCOL\Binaries\Win64\`.
 3. Copy the `~mods` folder to `C:\BandaiNamcoLauncherGames\BLUEPROTOCOL\BLUEPROTOCOL\Content\Paks`.
 4. Move the `BP-translate 1.1` folder to any location convenient for you
